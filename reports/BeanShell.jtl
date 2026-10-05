@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1791238887558,143,Registration,200,OK,Thread Group 1-2,text,true,,1470,371,2,2,http://127.0.0.1:1080/cgi-bin/login.pl,141,0,44
+1791238887557,145,Registration,200,OK,Thread Group 1-1,text,true,,1461,367,2,2,http://127.0.0.1:1080/cgi-bin/login.pl,141,0,44
+1791238887720,76,Registration,200,OK,Thread Group 1-3,text,true,,1461,367,1,1,http://127.0.0.1:1080/cgi-bin/login.pl,70,0,1
+1791238887887,80,Registration,200,OK,Thread Group 1-4,text,true,,1458,364,1,1,http://127.0.0.1:1080/cgi-bin/login.pl,74,0,1
+1791238888049,75,Registration,200,OK,Thread Group 1-5,text,true,,1470,371,1,1,http://127.0.0.1:1080/cgi-bin/login.pl,69,0,2
+1791238888230,83,Registration,200,OK,Thread Group 1-6,text,true,,1458,364,1,1,http://127.0.0.1:1080/cgi-bin/login.pl,77,0,2
